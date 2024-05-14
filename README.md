@@ -1,4 +1,10 @@
-# Ex.No:1a  			Study of Socket Programming
+# Ex.No:1a  
+                      Study of Socket Programming
+# NAME:RAMYA.P
+
+# REGISTER NUMBER: 212223240137
+
+# DEPARTMENT: AIML
 
 ## Aim: 
 To perform a study on Socket Programming
